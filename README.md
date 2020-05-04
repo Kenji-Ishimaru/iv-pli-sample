@@ -15,7 +15,7 @@ PLI task converts floating-point vale to IEEE 754 value.
 ```
 git clone https://github.com/Kenji-Ishimaru/iv-pli-sample.git
 cd iv-pli-sample/work
-../bin/run_iv.sh ../scenario/test_1.sh
+../bin/run_iv.sh ../scenario/test_1.v
 ```
 
 ## Result
